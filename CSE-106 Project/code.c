@@ -66,4 +66,5 @@ void result()
 	{
 		printf("Sum of In Degree and Out Degree are Equal\n");
 	}
+
 }
